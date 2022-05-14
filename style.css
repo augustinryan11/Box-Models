@@ -1,0 +1,16 @@
+.standard {
+        border: 5px solid teal;
+        background-color: #A5CFE3;
+		text-align: center;
+        padding: 40px;
+        margin: 40px;
+        width: 500px;
+        height: 350px;
+      }
+
+.alternate {
+	
+		 width: 500px;
+        height: 350px;
+      }
+    
